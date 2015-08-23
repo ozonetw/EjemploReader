@@ -1,0 +1,6 @@
+c:\users\edata\documents\visual studio 2013\Projects\FinalEEGReader\FinalEEGReader\obj\Debug\FinalEEGReader.csprojResolveAssemblyReference.cache
+c:\users\edata\documents\visual studio 2013\Projects\FinalEEGReader\FinalEEGReader\bin\Debug\FinalEEGReader.exe.config
+c:\users\edata\documents\visual studio 2013\Projects\FinalEEGReader\FinalEEGReader\bin\Debug\FinalEEGReader.exe
+c:\users\edata\documents\visual studio 2013\Projects\FinalEEGReader\FinalEEGReader\bin\Debug\FinalEEGReader.pdb
+c:\users\edata\documents\visual studio 2013\Projects\FinalEEGReader\FinalEEGReader\obj\Debug\FinalEEGReader.exe
+c:\users\edata\documents\visual studio 2013\Projects\FinalEEGReader\FinalEEGReader\obj\Debug\FinalEEGReader.pdb
